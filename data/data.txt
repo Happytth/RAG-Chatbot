@@ -1,0 +1,281 @@
+============================================================
+SWIFT SHIP - SMALL SHIPMENT COMPANY
+KNOWLEDGE BASE
+============================================================
+
+------------------------------------------------------------
+COMPANY OVERVIEW
+------------------------------------------------------------
+Swift Ship is a reliable small shipment and courier company offering domestic and international delivery services. We specialize in parcel delivery, freight forwarding, express courier, and last-mile logistics for individuals, small businesses, and e-commerce sellers. Our mission is to deliver on time, every time, with full transparency and care.
+
+Website: www.swiftship.com
+Customer Support Email: support@swiftship.com
+Phone: +1-800-794-7447 (Mon–Sat, 8AM–8PM EST)
+Headquarters: 142 Logistics Park, Newark, NJ 07102
+
+------------------------------------------------------------
+SERVICES
+------------------------------------------------------------
+
+1. STANDARD DELIVERY
+   - Delivery time: 3–5 business days (domestic)
+   - Best for: Non-urgent packages, documents, small parcels
+   - Max weight: 30 kg per parcel
+   - Max dimensions: 120cm x 80cm x 80cm
+   - Price starts at: $5.99 for parcels under 0.5 kg
+
+2. EXPRESS DELIVERY
+   - Delivery time: 1–2 business days (domestic)
+   - Best for: Urgent documents, time-sensitive shipments
+   - Max weight: 20 kg per parcel
+   - Price starts at: $14.99 for parcels under 0.5 kg
+   - Available in: All major US cities and metro areas
+
+3. SAME-DAY DELIVERY
+   - Delivery time: Within 6 hours of pickup
+   - Available in: New York, Los Angeles, Chicago, Houston, Miami
+   - Max weight: 10 kg
+   - Price starts at: $29.99
+   - Order cutoff time: 12:00 PM local time
+
+4. INTERNATIONAL SHIPPING
+   - Delivery time: 7–21 business days depending on destination
+   - Available in: 120+ countries
+   - Express international available (3–7 business days) at premium rate
+   - Max weight: 70 kg per shipment
+   - Customs clearance assistance included
+   - Price depends on destination, weight, and declared value
+
+5. FREIGHT FORWARDING
+   - For heavy or bulk shipments over 70 kg
+   - Air, sea, and ground options available
+   - Door-to-door and port-to-port services
+   - Quote required — contact sales@swiftship.com
+
+6. E-COMMERCE FULFILLMENT
+   - Warehousing, pick-and-pack, and last-mile delivery
+   - Integrates with Shopify, WooCommerce, Amazon, eBay
+   - Monthly subscription plans starting at $99/month
+   - Ideal for small to mid-size online stores
+
+7. DOCUMENT COURIER
+   - Secure, trackable delivery for legal and financial documents
+   - Signature required on delivery
+   - Same-day and next-day options
+   - Available nationwide
+
+------------------------------------------------------------
+PRICING
+------------------------------------------------------------
+
+DOMESTIC PRICING (Standard Delivery):
+- Under 0.5 kg:    $5.99
+- 0.5 kg – 2 kg:   $8.49
+- 2 kg – 5 kg:     $12.99
+- 5 kg – 10 kg:    $18.99
+- 10 kg – 20 kg:   $27.99
+- 20 kg – 30 kg:   $39.99
+
+DOMESTIC PRICING (Express Delivery): Add $9.00 to standard rate
+
+SAME-DAY DELIVERY: Flat rate starts at $29.99 + $1.50 per kg over 1 kg
+
+FUEL SURCHARGE: Currently 4.5% added to all shipments (updated monthly)
+
+DIMENSIONAL WEIGHT: If (L x W x H in cm) / 5000 > actual weight, dimensional weight is used for pricing.
+
+INTERNATIONAL PRICING: Starts at $19.99 for documents under 0.5 kg to Canada/Mexico. Other destinations calculated at checkout based on zone, weight, and service level.
+
+INSURANCE:
+- Basic coverage up to $100 included free
+- Additional coverage: $1.50 per $100 of declared value
+- Maximum insured value: $5,000 per shipment
+
+------------------------------------------------------------
+TRACKING
+------------------------------------------------------------
+
+HOW TO TRACK YOUR SHIPMENT:
+1. Visit www.swiftship.com/track
+2. Enter your tracking number (format: SS-XXXXXXXXXX)
+3. You will see real-time status updates
+
+TRACKING STATUSES EXPLAINED:
+- Order Received: We have your booking, awaiting pickup
+- Picked Up: Package collected from sender
+- In Transit: Package moving through our network
+- Out for Delivery: Package loaded on delivery vehicle
+- Delivered: Package successfully delivered
+- Attempted Delivery: Delivery tried but failed (no one home, access issue)
+- Held at Facility: Package held at local depot awaiting re-delivery
+- Customs Hold: International shipment under customs review
+- Returned to Sender: Package could not be delivered and returned
+
+TRACKING NOTIFICATIONS:
+- SMS and email notifications sent at each status update
+- You can update notification preferences in your account dashboard
+
+IF YOUR TRACKING ISN'T UPDATING:
+- Allow 24 hours after pickup for the first scan to appear
+- If no update after 48 hours, contact support with your tracking number
+
+------------------------------------------------------------
+PICKUP & DROPOFF
+------------------------------------------------------------
+
+SCHEDULED PICKUP:
+- Book online at www.swiftship.com/pickup or via the app
+- Available Monday–Saturday, 8AM–7PM
+- Pickup windows: Morning (8AM–12PM), Afternoon (12PM–5PM), Evening (5PM–7PM)
+- Free pickup for shipments over $20 in value
+- $3.00 pickup fee for shipments under $20
+
+DROPOFF LOCATIONS:
+- 2,400+ authorized dropoff points nationwide (pharmacies, convenience stores, pack-and-ship centers)
+- Find nearest location at www.swiftship.com/locations
+- Dropoff is always free
+- Package must be properly sealed and labeled before dropoff
+
+PACKAGING REQUIREMENTS:
+- Use sturdy corrugated cardboard boxes
+- Fill empty space with bubble wrap or packing peanuts
+- Do not reuse old boxes with previous labels
+- Fragile items must be double-boxed
+- Label must be clearly visible and not covered by tape
+
+------------------------------------------------------------
+PROHIBITED ITEMS
+------------------------------------------------------------
+
+ABSOLUTELY NOT ACCEPTED:
+- Explosives, fireworks, or flammable gases
+- Weapons, firearms, or ammunition
+- Narcotics or illegal drugs
+- Radioactive materials
+- Hazardous chemicals or poisons
+- Human remains or ashes (special permit required)
+- Live animals (contact us for special arrangements)
+- Counterfeit goods or pirated materials
+- Cash, currency, or negotiable instruments over $100
+- Perishable food without dry-ice packaging (express only)
+
+RESTRICTED ITEMS (require declaration and special packaging):
+- Lithium batteries (must comply with IATA regulations)
+- Alcohol (licensed senders only, domestic only)
+- Perfumes and aerosols (limited quantities)
+- Medical devices and pharmaceuticals (documentation required)
+- Jewelry and high-value items over $1,000 (enhanced insurance required)
+
+------------------------------------------------------------
+CLAIMS & REFUNDS
+------------------------------------------------------------
+
+LOST SHIPMENT CLAIM:
+- A shipment is considered lost if not delivered within:
+  - Standard: 10 business days after estimated delivery
+  - Express: 5 business days after estimated delivery
+  - International: 30 days after estimated delivery
+- File a claim at www.swiftship.com/claims or call support
+- Required: Tracking number, proof of value, sender/receiver details
+- Resolution time: 5–10 business days
+
+DAMAGED SHIPMENT CLAIM:
+- Report within 7 days of delivery
+- Keep all original packaging and damaged contents for inspection
+- Provide photos of damage when filing claim
+- Claims without original packaging may be denied
+
+REFUND POLICY:
+- Full refund if Swift Ship is at fault (lost or damaged)
+- Shipping fee refunded if delivery is 2+ days late on Express service
+- No refund for incorrect address provided by sender
+- No refund for refused delivery by recipient
+- Refunds processed within 7–10 business days
+
+------------------------------------------------------------
+ACCOUNT & BILLING
+------------------------------------------------------------
+
+CREATING AN ACCOUNT:
+- Sign up free at www.swiftship.com/register
+- Business accounts get volume discounts starting at 50 shipments/month
+- API access available for business accounts (for integration with your systems)
+
+PAYMENT METHODS ACCEPTED:
+- Visa, MasterCard, American Express, Discover
+- PayPal and Apple Pay
+- Bank transfer (for business accounts with net-30 terms)
+- Swift Ship Wallet (prepaid balance, 3% bonus on top-ups over $50)
+
+INVOICING:
+- Business accounts receive monthly invoices
+- Individual invoices emailed after each shipment
+- Billing portal available at www.swiftship.com/billing
+
+VOLUME DISCOUNTS:
+- 50–100 shipments/month: 5% off
+- 101–300 shipments/month: 10% off
+- 301–500 shipments/month: 15% off
+- 500+ shipments/month: Custom pricing — contact sales@swiftship.com
+
+------------------------------------------------------------
+FREQUENTLY ASKED QUESTIONS
+------------------------------------------------------------
+
+Q: How do I get a shipping label?
+A: Log in to your account, go to "New Shipment", enter the details, pay, and download/print the label. You can also generate labels via our API.
+
+Q: What if nobody is home during delivery?
+A: Our driver will attempt delivery up to 3 times. After the third attempt, the package is held at the nearest depot for 7 days. You can also redirect the package to a different address or a pickup point using the tracking link.
+
+Q: Can I change the delivery address after shipping?
+A: Yes, address changes can be requested within 2 hours of booking if the package has not yet been picked up. Once in transit, address changes are subject to a $5.00 redirection fee and may delay delivery by 1–2 days.
+
+Q: What is the maximum size package you accept?
+A: For standard and express: 120cm x 80cm x 80cm, max 30 kg. Larger items can be shipped via our freight service.
+
+Q: Do you offer weekend delivery?
+A: Saturday delivery is available for Express and Same-Day services at no extra charge. Sunday delivery is available in select cities for Same-Day service only.
+
+Q: How do I schedule a return shipment?
+A: Go to www.swiftship.com/returns or ask the recipient to initiate a return via the tracking link. Return labels can be emailed to the recipient.
+
+Q: Can I ship perishable food?
+A: Yes, but only via Same-Day or Express services with proper dry-ice or insulated packaging. Perishables are not accepted for Standard or International delivery.
+
+Q: What happens if my package is stuck in customs?
+A: Our team will notify you immediately and guide you through any documentation required. Customs clearance assistance is included with all international shipments. Delays due to customs are outside our control and do not qualify for refunds.
+
+Q: Do you ship to PO boxes?
+A: Yes, for Standard delivery only. Express, Same-Day, and Freight services require a physical address.
+
+Q: How do I become a Swift Ship business partner or reseller?
+A: Contact our partnerships team at partners@swiftship.com for reseller agreements, white-label options, and API integration packages.
+
+Q: Can I track multiple shipments at once?
+A: Yes. Log in to your dashboard to see all active shipments. Business accounts can also use our bulk tracking API.
+
+Q: What is the Swift Ship Wallet?
+A: It is a prepaid balance stored in your account. You get a 3% bonus on top-ups over $50. It speeds up checkout and is ideal for businesses making frequent shipments.
+
+Q: Is my package insured automatically?
+A: Basic coverage up to $100 is included free with every shipment. You can purchase additional insurance during checkout.
+
+Q: How do I contact customer support?
+A: Email support@swiftship.com, call +1-800-794-7447 (Mon–Sat, 8AM–8PM EST), or use the live chat on our website.
+
+------------------------------------------------------------
+CONTACT INFORMATION
+------------------------------------------------------------
+
+Customer Support:   support@swiftship.com | +1-800-794-7447
+Sales & Business:   sales@swiftship.com
+Partnerships:       partners@swiftship.com
+Claims Department:  claims@swiftship.com
+Website:            www.swiftship.com
+Live Chat:          Available on website Mon–Sat, 8AM–8PM EST
+Office Address:     142 Logistics Park, Newark, NJ 07102
+
+------------------------------------------------------------
+END OF KNOWLEDGE BASE
+------------------------------------------------------------

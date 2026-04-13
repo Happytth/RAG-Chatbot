@@ -217,7 +217,7 @@ venv/
 
 ## 👨‍💻 Author
 
-Your Name
+Soubhagya Nayak
 
 ---
 

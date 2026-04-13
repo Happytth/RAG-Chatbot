@@ -20,7 +20,7 @@ from dotenv import load_dotenv
 from huggingface_hub import InferenceClient
 from sentence_transformers import SentenceTransformer
 
-from backend.chatbot.embeddings import (
+from embeddings import (
     build_and_save,
     get_embedding_model,
     load_vector_store,

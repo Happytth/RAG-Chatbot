@@ -1,19 +1,3 @@
-"""
-app.py
-------
-FastAPI server for Swift Ship RAG Chatbot.
-
-Endpoints:
-  POST /chat      — ask a question, get an answer from the knowledge base
-  GET  /health    — check server + pipeline status
-  POST /rebuild   — re-index data/data.txt without restarting
-
-Run:
-  python app.py
-  or
-  uvicorn app:app --host 0.0.0.0 --port 8000 --reload
-"""
-
 import os
 from contextlib import asynccontextmanager
 from typing import List, Optional

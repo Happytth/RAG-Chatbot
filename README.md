@@ -25,7 +25,7 @@ RAG-Chatbot/
 │   ├── rag_pipeline.py     # RAG logic
 │   ├── embeddings.py       # Embedding + FAISS
 │   ├── vector_store/       # Saved FAISS index
-│   └── __pycache__/        # Ignored
+│   └── streamlit.py        # Streamlit UI
 │
 ├── data/
 │   └── data.txt            # Knowledge base
@@ -114,6 +114,7 @@ python chatbot/embeddings.py
 ```bash
 cd chatbot
 python app.py
+streamlit run streamlit.py
 ```
 
 ---
@@ -123,6 +124,7 @@ python app.py
 ```bash
 cd chatbot
 uvicorn app:app --reload
+streamlit run streamlit.py
 ```
 
 ---

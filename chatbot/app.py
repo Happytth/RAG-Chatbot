@@ -146,7 +146,7 @@ async def health():
     """Returns pipeline status and number of indexed chunks."""
     return HealthResponse(
         status="ok",
-        chunks_loaded=len(rag.chunks) if rag else 0,
+        chunks_loaded=rag.chunks if rag else 0,
         llm_model=rag.model_name if rag else "not loaded",
     )
 

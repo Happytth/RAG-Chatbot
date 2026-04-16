@@ -8,7 +8,7 @@ from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from langchain_core.prompts import PromptTemplate
-from langchain_core.runnables import RunnablePassthrough, RunnableLambda
+from langchain_core.runnables import RunnablePassthrough, RunnableLambda, RunnableParallel
 from langchain_core.output_parsers import StrOutputParser
 
 load_dotenv()
@@ -79,11 +79,12 @@ class SwiftShipRAG:
             return "\n\n".join(doc.page_content for doc in docs)
 
         # Runnable chain
-        self.rag_chain = (
-            {
+        self.parallel_chain=RunnableParallel({
                 "context": RunnableLambda(retrieve_docs),
                 "question": RunnablePassthrough(),
-            }
+            })
+        self.rag_chain = (
+            self.parallel_chain
             | prompt
             | self.llm
             | StrOutputParser()
@@ -103,7 +104,7 @@ class SwiftShipRAG:
         return {
             "question": question,
             "answer": answer,
-            "found_in_kb": True,
+            "found_in_kb": answer.lower()!= "i don't know" ,
             "sources": sources,
         }
 
